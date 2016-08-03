@@ -1,7 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am a student and this is a site I am building while learning
+
+
+http://www.1995builders.com
 
 Things you may want to cover:
 
